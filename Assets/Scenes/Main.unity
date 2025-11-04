@@ -367,6 +367,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &360584127 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2407463355960084419, guid: 6ed033551eb501248909af041ae6aa16, type: 3}
+  m_PrefabInstance: {fileID: 5580219399762207776}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
